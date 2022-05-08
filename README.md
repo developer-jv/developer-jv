@@ -1,7 +1,7 @@
 
 <hr>
 
-- 👋 Hi, I’m @perzival14v or just Perzi
+- 👋 Hi, I’m Javier or just Xavi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML5 and CSS3
 - 📫 How to reach me --> javier.valdez.15v@gmail.com 😄

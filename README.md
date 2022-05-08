@@ -16,7 +16,7 @@
 
 
 
-<img align="right" border="30" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"  height="300" alt="Programmer"/>
+<img align="right" border="30" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"  height="300" alt="Programmer"/>
 
 <div>
 

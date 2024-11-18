@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier Valdez</h1>
-<h3 align="center">A passionate frontend developer from Guatemala</h3>
+<h3 align="center">A passionate data engineer from Guatemala</h3>
 
 - 🌱 I’m currently learning **Data Engineer**
 

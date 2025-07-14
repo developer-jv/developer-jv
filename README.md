@@ -4,7 +4,7 @@
 - 🌱 I’m currently focused on learning and growing as a **Data Engineer**  
 - 👨‍💻 Explore my projects: [javiervaldez.netlify.app](https://javiervaldez.netlify.app/)  
 - 💬 Ask me about: **Python, ETL, Data**  
-- 📫 Reach me at: **javier.valdez.15v@gmail.com**
+- 📫 Reach me at: **javier.valdez.dev@gmail.com**
 
 ---
 

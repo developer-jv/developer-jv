@@ -1,23 +1,89 @@
 <h1 align="center">Hi 👋, I'm Javier Valdez</h1>
-<h3 align="center">A passionate data engineer from Guatemala</h3>
+<h3 align="center">A passionate Data Engineer from Guatemala</h3>
 
-- 🌱 I’m currently learning **Data Engineer**
+- 🌱 I’m currently focused on learning and growing as a **Data Engineer**  
+- 👨‍💻 Explore my projects: [javiervaldez.netlify.app](https://javiervaldez.netlify.app/)  
+- 💬 Ask me about: **Python, ETL, Data**  
+- 📫 Reach me at: **javier.valdez.15v@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://javiervaldez.netlify.app/](https://javiervaldez.netlify.app/)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, Python**
-
-- 📫 How to reach me **javier.valdez.15v@gmail.com**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/javier-valdez-one/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-valdez-one/?locale=en_US" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/javier-valdez-one/?locale=en_US" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a></p>
+---
 
+<h3 align="left">🛠️ Languages & Tools</h3>
 
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40"/>
+</p>
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="40"/>
+</p>
+
+### 🖥️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" height="40"/>
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="40"/>
+</p>
+
+### 🧠 Data & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="40"/>
+  <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" height="40"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="40"/>
+</p>
+
+### 🧰 Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40"/>
+  <img src="https://skillicons.dev/icons?i=regex" alt="Regex" height="40"/>
+</p>
+
+### 🧑‍💻 IDEs & Terminals
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="40"/>
+  <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" height="40"/>
+</p>
+
+### 🎨 Design & Docs
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40"/>
+  <img src="https://skillicons.dev/icons?i=md" alt="Markdown" height="40"/>
+  <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" height="40"/>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xavi-val&langs_count=10&theme=tokyonight&layout=compact)]()
-
